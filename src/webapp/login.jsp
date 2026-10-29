@@ -21,7 +21,7 @@
 
                 <div class="mb-3">
                     <label for="USUARIO" class="form-label">Usuario</label>
-                    <input type="text" class="form-control" id="USERNAME" name="USERNAME" required placeholder="Ingresa tu usuario">
+                    <input type="text" class="form-control" id="USERNAME" name="USERNAME" required placeholder="Ingresa tu nombre de usuario">
                 </div>
 
 
